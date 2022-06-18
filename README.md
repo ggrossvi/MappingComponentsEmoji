@@ -1,0 +1,2 @@
+# MappingComponentsEmoji
+Created with CodeSandbox
